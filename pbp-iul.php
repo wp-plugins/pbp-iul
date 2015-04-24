@@ -4,7 +4,7 @@ Plugin Name: PBP IUL
 Plugin URI: http://projoktibangla.net
 Description: This plugin increase upload size limit up to more & more.
 Author: projoktibangla
-Version: 2.0
+Version: 2.1
 Author URI: http://projoktibangla.net
 */
 /*
